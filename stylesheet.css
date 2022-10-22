@@ -1,0 +1,17 @@
+.header {
+    padding: 50px;
+    text-align: center;
+    background-color: palevioletred;
+    font-size: 25px;
+}
+.table,tr,td,th {
+    border: 2px dotted blue;
+    padding: 30px;
+    text-align: justify;
+    font-size: 20px ;
+}
+.footer {
+    padding: 20px;
+    text-align: right;
+    background-color: pink;
+}
